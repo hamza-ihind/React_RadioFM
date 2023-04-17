@@ -3,7 +3,6 @@ import { Stack, useRouter } from "expo-router";
 import { View, Text, ScrollView, SafeAreaView } from "react-native";
 import { COLORS, SIZES, icons, images } from "../constants";
 import {
-  NearbyJobs,
   Nearbyjobs,
   Popularjobs,
   ScreenHeaderBtn,
